@@ -7,9 +7,9 @@ Cinteza Tudor Andrei
 Fotin Mihnea Andrei
 Potop Horia-Ioan
 
-##Ideea Proiectului##
+##Ideea Proiectului
 
-##Tehnologii utilizate##
+##Tehnologii utilizate
 
-##Altele##
+##Altele
 
