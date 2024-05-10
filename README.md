@@ -10,7 +10,7 @@ de dinamica a sistemelor sunt utilizate in educatie pentru a ajuta la intelegere
 pentru a imbunatati proiectarea si operatiunile sistemelor complexe.
 
 ## Tehnologii utilizate
-Simularea este realizata in Unity game-engine, program in care am reusit simula corpurile si interactiunea dintre ele. Ün game-engine ne ofera un mediu controlat pentru a experimenta
+Simularea este realizata in Unity game-engine, program in care am reusit simula corpurile si interactiunea dintre ele. Un game-engine ne ofera un mediu controlat pentru a experimenta
 modele de sisteme fara riscurile si costurile asociate cu experimentele in lumea reala.
 In acelasi timp ne-am folosit si de Biblioteci si Framework-uri, puse la dispozitie de acest program, si de interfata grafica a utilizatorului (GUI)
 
